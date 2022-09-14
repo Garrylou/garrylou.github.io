@@ -1,0 +1,35 @@
+﻿{"frames": {
+
+"Bitmap399":
+{
+	"frame": {"x":0,"y":907,"w":1024,"h":819},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1024,"h":819},
+	"sourceSize": {"w":1024,"h":819}
+},
+"CachedBmp_491":
+{
+	"frame": {"x":0,"y":476,"w":2046,"h":429},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":2046,"h":429},
+	"sourceSize": {"w":2046,"h":429}
+},
+"CachedBmp_613":
+{
+	"frame": {"x":0,"y":0,"w":1857,"h":474},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1857,"h":474},
+	"sourceSize": {"w":1857,"h":474}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.7.214",
+	"image": "HTML5_ATS4 Module energie et force_atlas_40.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

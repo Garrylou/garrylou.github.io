@@ -1,0 +1,67 @@
+﻿{"frames": {
+
+"CachedBmp_133":
+{
+	"frame": {"x":0,"y":0,"w":1464,"h":318},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1464,"h":318},
+	"sourceSize": {"w":1464,"h":318}
+},
+"CachedBmp_134":
+{
+	"frame": {"x":602,"y":640,"w":1402,"h":318},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1402,"h":318},
+	"sourceSize": {"w":1402,"h":318}
+},
+"CachedBmp_145":
+{
+	"frame": {"x":602,"y":320,"w":1402,"h":318},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1402,"h":318},
+	"sourceSize": {"w":1402,"h":318}
+},
+"CachedBmp_684":
+{
+	"frame": {"x":0,"y":1697,"w":1940,"h":198},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1940,"h":198},
+	"sourceSize": {"w":1940,"h":198}
+},
+"Capturedécran20180401à155109":
+{
+	"frame": {"x":0,"y":1085,"w":725,"h":610},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":725,"h":610},
+	"sourceSize": {"w":725,"h":610}
+},
+"Capturedécran20181015à191340":
+{
+	"frame": {"x":727,"y":960,"w":1236,"h":346},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1236,"h":346},
+	"sourceSize": {"w":1236,"h":346}
+},
+"balloon":
+{
+	"frame": {"x":0,"y":320,"w":600,"h":763},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":600,"h":763},
+	"sourceSize": {"w":600,"h":763}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.7.214",
+	"image": "HTML5_ATS4 Module energie et force_atlas_46.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}

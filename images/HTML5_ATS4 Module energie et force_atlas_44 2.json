@@ -1,0 +1,67 @@
+﻿{"frames": {
+
+"CachedBmp_131":
+{
+	"frame": {"x":0,"y":0,"w":1657,"h":318},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1657,"h":318},
+	"sourceSize": {"w":1657,"h":318}
+},
+"CachedBmp_386":
+{
+	"frame": {"x":0,"y":1653,"w":1721,"h":279},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1721,"h":279},
+	"sourceSize": {"w":1721,"h":279}
+},
+"Capturedécran20180330à220103":
+{
+	"frame": {"x":660,"y":320,"w":1289,"h":369},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1289,"h":369},
+	"sourceSize": {"w":1289,"h":369}
+},
+"Capturedécran20180330à220146psd":
+{
+	"frame": {"x":660,"y":691,"w":1286,"h":369},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1286,"h":369},
+	"sourceSize": {"w":1286,"h":369}
+},
+"Capturedécranle20220911à110143":
+{
+	"frame": {"x":962,"y":1062,"w":844,"h":562},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":844,"h":562},
+	"sourceSize": {"w":844,"h":562}
+},
+"_0046plyometrictrainingwithoutphysicalstrainlowimpact658x789":
+{
+	"frame": {"x":0,"y":320,"w":658,"h":789},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":658,"h":789},
+	"sourceSize": {"w":658,"h":789}
+},
+"solarpanel1393880_960_720":
+{
+	"frame": {"x":0,"y":1111,"w":960,"h":540},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":960,"h":540},
+	"sourceSize": {"w":960,"h":540}
+}},
+"meta": {
+	"app": "Adobe Animate",
+	"version": "22.0.7.214",
+	"image": "HTML5_ATS4 Module energie et force_atlas_44.png",
+	"format": "undefined",
+	"size": {"w":2048,"h":2048},
+	"scale": "1"
+}
+}
